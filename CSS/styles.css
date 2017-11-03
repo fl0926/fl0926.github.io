@@ -81,7 +81,7 @@ section {
 
 /*##### EXPERIENCE SECTION #####*/
 .experience {
-  background: darkviolet;
+  background: #700e85;
   padding: 50px 0;
   overflow-x: hidden;
   }
@@ -108,7 +108,7 @@ section {
 }
 .experience .content ul li:before {
   content: '';
-  background: darkviolet;
+  background: #700e85;
   position: absolute;
   left: 50%;
   top: 0;
