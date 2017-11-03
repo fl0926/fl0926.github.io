@@ -192,7 +192,7 @@ section {
 .skills .content .development-wrapper .skills-bar-container li .bar-container {
   background: #ececec;
   position: relative;
-  width: 100%;
+  width: 75%;
   height: 10px;
 }
 .skills .content .development-wrapper .skills-bar-container li .bar-container .progressbar {
@@ -209,7 +209,7 @@ section {
   position: relative;
   padding: 20px 0;
   width: 100%;
-  text-align: center;
+  text-align: left;
 }
 .skills .content .tools-knowledge-wrapper .tools-wrapper .title,
 .skills .content .tools-knowledge-wrapper .knowledge-wrapper .title {
